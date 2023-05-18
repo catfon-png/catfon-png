@@ -1,11 +1,11 @@
  
 ### :woman_technologist: About Me :
-I am a Full Stack Developer from Portugal <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Full Stack Developer from Portugal, currently living in Amsterdam <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - I love coding in JavaScript/TypeScript
-- I have a Master's in UX Design, so I like to combine that in my projects
-- I’m currently a Full Stack Developer looking for a job or for interesting projects
+- I have a Master's in UX Design, so I like to combine the combine a user-centric mindset in frontend
+- Currently, I'm looking for an opportunity full-time or to help out in any cool projects
 
-- :zap: In my free time, I like to read, do sports and design/build web-applications.
+- :zap: In my free time, I like to read, do sports, be with friends and design/build web-applications.
 
 - :mailbox:How to reach me:
 <div id="badges" align="center">
